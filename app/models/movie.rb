@@ -13,5 +13,4 @@ class Movie < ActiveRecord::Base
 	validates :poster_url,
 	presence: true
 	
-
 end
